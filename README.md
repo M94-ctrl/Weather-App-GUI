@@ -25,4 +25,7 @@ Supports:
 python WeatherGUI.py
 
 ### Weather Interface
+<p align="center">
+  <img src="screenshotGUI.png" alt="Weather App GUI" width="600">
+</p>
 <img width="1792" height="577" alt="Screenshot 2025-10-27 221739" src="https://github.com/M94-ctrl/Weather-App-GUI/blob/main/Screenshot%20GUI.png" />
