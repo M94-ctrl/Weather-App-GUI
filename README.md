@@ -25,4 +25,4 @@ Supports:
 python WeatherGUI.py
 
 ### Weather Interface
-![Weather App GUI](screenshot.png)
+https://github.com/M94-ctrl/Weather-App-GUI/blob/main/Screenshot%20GUI.png
