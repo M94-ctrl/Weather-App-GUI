@@ -24,3 +24,5 @@ Supports:
 ```bash
 python WeatherGUI.py
 
+### Weather Interface
+![Weather App GUI](screenshot.png)
