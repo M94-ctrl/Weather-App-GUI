@@ -24,4 +24,8 @@ Supports:
 ```bash
 python WeatherGUI.py
 
+### App Interface
+<p align="center">
+  <img src="706ba06a-a412-4f8e-9161-819ca75e8cd8.png" alt="Weather App GUI" width="600">
+</p>
 
