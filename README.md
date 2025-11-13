@@ -10,6 +10,7 @@ Supports:
 - Last 30 days (Excel export)
 - 
 - ![Weather App Screenshot](Screenshot.png)
+- <img src="screenshot.png" width="500">
 
 ---
 
