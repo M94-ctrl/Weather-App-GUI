@@ -8,6 +8,7 @@ Supports:
 - Current weather (shown in GUI console)
 - Last 7 days (Excel export)
 - Last 30 days (Excel export)
+- 
 - ![Weather App Screenshot](Screenshot.png)
 
 ---
@@ -24,7 +25,4 @@ Supports:
 ### Run the App
 ```bash
 python WeatherGUI.py
-
-
-
 
